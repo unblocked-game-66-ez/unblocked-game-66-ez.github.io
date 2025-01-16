@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://unblocked-game-66-ez.github.io/sitemap.xml
